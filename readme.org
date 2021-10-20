@@ -17,7 +17,7 @@ This repository is just an index to the custom keyboard layouts I've created.
 
 ** Redox (master branch)
 [[https://github.com/finex/redox-finex/][Redox]]
-Master branch without Awesome WM customizations (currently unmaintained).
+Master branch without Awesome WM customizations.
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
