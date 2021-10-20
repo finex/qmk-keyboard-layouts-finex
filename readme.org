@@ -13,7 +13,7 @@
 - [[#planned-layouts][Planned layouts]]
 
 * Layouts
-This repository is just an index to the custom keyboard layouts I've created.
+This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
 
 ** Redox (master branch)
 [[https://github.com/finex/redox-finex/][Redox]]
