@@ -5,28 +5,25 @@
 #+STARTUP: nofold
 
 * Table of Content :TOC:
-- [[#qmk-keyboard-layout-by-finex][QMK Keyboard layout by FiNeX]]
+- [[#layouts][Layouts]]
   - [[#redox][Redox]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
 - [[#planned-layouts][Planned layouts]]
 
-* QMK Keyboard layout by FiNeX
+* Layouts
 This repository is just an index to the custom keyboard layouts I've created.
 
-#+NAME: redox
 ** Redox
 - [[https://github.com/finex/redox-finex/][Redox]]
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
-#+NAME: lets-split
 ** Let's split
 - [[https://github.com/finex/lets-split-finex][Let's Split]]
 #+CAPTION: Let's Split layout
 [[https://raw.githubusercontent.com/finex/lets-split-finex/main/lets-split-finex.png]]
 
-#+NAME: gh60
 ** GH60
 - [[https://github.com/finex/gh60-finex][GH60]]
 #+CAPTION: GH60 (Satan) layout
