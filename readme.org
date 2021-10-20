@@ -1,4 +1,4 @@
-#+TITLE: QMK Keyboard layout by FiNeX
+#+TITLE: QMK Keyboard layouts by FiNeX
 #+AUTHOR: FiNeX (https://www.leonardofinetti.it)
 #+DATE: 20/10/2021
 #+STARTUP: inlineimages
@@ -6,7 +6,8 @@
 
 * Table of Content :TOC:
 - [[#layouts][Layouts]]
-  - [[#redox][Redox]]
+  - [[#redox-master-branch][Redox (master branch)]]
+  - [[#redox-awesomewm-branch][Redox (awesomewm branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
 - [[#planned-layouts][Planned layouts]]
@@ -14,10 +15,17 @@
 * Layouts
 This repository is just an index to the custom keyboard layouts I've created.
 
-** Redox
-- [[https://github.com/finex/redox-finex/][Redox]]
+** Redox (master branch)
+[[https://github.com/finex/redox-finex/][Redox]]
+Master branch without Awesome WM customizations (currently unmaintained).
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
+
+** Redox (awesomewm branch)
+[[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]
+Branch created for [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
+#+CAPTION: Awesome WM Redox layout
+[[https://raw.githubusercontent.com/finex/redox-finex/awesomewm/images/redox-finex.png]]
 
 ** Let's split
 - [[https://github.com/finex/lets-split-finex][Let's Split]]
