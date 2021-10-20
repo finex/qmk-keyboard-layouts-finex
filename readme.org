@@ -17,23 +17,30 @@ This repository is just an index to the custom keyboard layouts I've created.
 
 ** Redox (master branch)
 [[https://github.com/finex/redox-finex/][Redox]]
+
 Master branch without Awesome WM customizations.
+
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
 ** Redox (awesomewm branch)
 [[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]
+
 Branch created for [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
+
 #+CAPTION: Awesome WM Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/awesomewm/images/redox-finex.png]]
 
 ** Let's split
-- [[https://github.com/finex/lets-split-finex][Let's Split]]
+[[https://github.com/finex/lets-split-finex][Let's Split]]
+
 #+CAPTION: Let's Split layout
 [[https://raw.githubusercontent.com/finex/lets-split-finex/main/lets-split-finex.png]]
 
 ** GH60
-- [[https://github.com/finex/gh60-finex][GH60]]
+
+[[https://github.com/finex/gh60-finex][GH60]]
+
 #+CAPTION: GH60 (Satan) layout
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
