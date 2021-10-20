@@ -18,7 +18,7 @@ This repository is just an index to the custom keyboard layouts I've created.
 ** Redox (master branch)
 [[https://github.com/finex/redox-finex/][Redox]]
 
-Master branch without Awesome WM customizations.
+Master branch.
 
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
@@ -26,7 +26,7 @@ Master branch without Awesome WM customizations.
 ** Redox (awesomewm branch)
 [[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]
 
-Branch created for [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
+Branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
 
 #+CAPTION: Awesome WM Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/awesomewm/images/redox-finex.png]]
@@ -45,5 +45,5 @@ Branch created for [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awe
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
 * Planned layouts
-- Kyria
-- Dactyl Manuform 5x7
+- [[https://github.com/splitkb/kyria][Kyria]]
+- [[https://github.com/carbonfet/dactyl-manuform][Dactyl Manuform 5x7]]
