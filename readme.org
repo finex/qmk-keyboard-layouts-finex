@@ -1,0 +1,29 @@
+#+TITLE: QMK Keyboard layout by FiNeX
+#+AUTHOR: FiNeX (https://www.leonardofinetti.it)
+#+DATE: 20/10/2021
+#+STARTUP: inlineimages
+#+STARTUP: nofold
+
+* Table of Content :TOC:
+- [[#qmk-keyboard-layout-by-finex][QMK Keyboard layout by FiNeX]]
+- [[#redox][Redox]]
+- [[#lets-split][Let's split]]
+- [[#gh60][GH60]]
+
+* QMK Keyboard layout by FiNeX
+This repository is just an index to the custom keyboard layouts I've created.
+- [[https://github.com/finex/redox-finex/][Redox]]
+- [[https://github.com/finex/lets-split-finex][Let's Split]]
+- [[https://github.com/finex/gh60-finex][GH60]]
+
+* Redox
+#+CAPTION: Redox layout
+[[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
+
+* Let's split
+#+CAPTION: Let's Split layout
+[[https://raw.githubusercontent.com/finex/lets-split-finex/main/lets-split-finex.png]]
+
+* GH60
+#+CAPTION: GH60 (Satan) layout
+[[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
