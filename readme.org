@@ -10,6 +10,7 @@
   - [[#redox-awesomewm-branch][Redox (awesomewm branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
+  - [[#kyria][Kyria]]
 - [[#planned-layouts][Planned layouts]]
 
 * Layouts
@@ -44,6 +45,11 @@ Branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM
 #+CAPTION: GH60 (Satan) layout
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
+** Kyria
+
+https://github.com/finex/kyria-finex
+
+
+
 * Planned layouts
-- [[https://github.com/splitkb/kyria][Kyria]]
 - [[https://github.com/carbonfet/dactyl-manuform][Dactyl Manuform 5x7]]
