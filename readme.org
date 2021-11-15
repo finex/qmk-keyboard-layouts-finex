@@ -49,6 +49,8 @@ Branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM
 
 https://github.com/finex/kyria-finex
 
+#+CAPTION: Redox FiNeX layout
+[[https://raw.githubusercontent.com/finex/kyria-finex/main/finex-kyria-miryoku.png]]
 
 
 * Planned layouts
