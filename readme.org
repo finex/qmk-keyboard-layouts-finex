@@ -6,7 +6,7 @@
 
 * Table of Content :TOC:
 - [[#layouts][Layouts]]
-  - [[#redox-master-branch][Redox (master branch)]]
+  - [[#redox][Redox]]
   - [[#redox-awesomewm-branch][Redox (awesomewm branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
@@ -16,42 +16,36 @@
 * Layouts
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
 
-** Redox (master branch)
-[[https://github.com/finex/redox-finex/][Redox]]
-
-Master branch.
+** Redox
+*** Master branch
+[[https://github.com/finex/redox-finex/][Redox Master branch]] without special Awesome WM support, not updated with latest improvements.
 
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
 ** Redox (awesomewm branch)
-[[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]
-
-Branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
+[[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]: branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
 
 #+CAPTION: Awesome WM Redox layout
-[[https://raw.githubusercontent.com/finex/redox-finex/awesomewm/images/redox-finex.png]]
+[[https://raw.githubusercontent.com/finex/redox-finex/simpleawesome/images/redox-finex.png]]
 
 ** Let's split
-[[https://github.com/finex/lets-split-finex][Let's Split]]
+[[https://github.com/finex/lets-split-finex][Let's Split]] layout inspired by personal Redox configuration.
 
 #+CAPTION: Let's Split layout
 [[https://raw.githubusercontent.com/finex/lets-split-finex/main/lets-split-finex.png]]
 
 ** GH60
-
-[[https://github.com/finex/gh60-finex][GH60]]
+Basic [[https://github.com/finex/gh60-finex][GH60]] layout.
 
 #+CAPTION: GH60 (Satan) layout
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
 ** Kyria
-
-https://github.com/finex/kyria-finex
+Custom [[https://github.com/finex/kyria-finex][Kyria]] Layout ispired by Myrioku and my personal Redox layout.
 
 #+CAPTION: Redox FiNeX layout
-[[https://raw.githubusercontent.com/finex/kyria-finex/main/finex-kyria-miryoku.png]]
-
+[[https://raw.githubusercontent.com/finex/kyria-finex/main/images/finex-kyria-miryoku.png]]
 
 * Planned layouts
 - [[https://github.com/carbonfet/dactyl-manuform][Dactyl Manuform 5x7]]
