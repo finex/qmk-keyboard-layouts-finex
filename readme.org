@@ -7,7 +7,6 @@
 * Table of Content :TOC:
 - [[#layouts][Layouts]]
   - [[#redox][Redox]]
-  - [[#redox-awesomewm-branch][Redox (awesomewm branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
   - [[#kyria][Kyria]]
@@ -23,7 +22,7 @@ This repository is just an index to the custom [[https://github.com/qmk/qmk_firm
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
-** Redox (awesomewm branch)
+*** AwesomeWM branch
 [[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]: branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
 
 #+CAPTION: Awesome WM Redox layout
