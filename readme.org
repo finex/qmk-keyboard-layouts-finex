@@ -16,17 +16,18 @@
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
 
 ** Redox
-*** Master branch
+*** AwesomeWM branch
+[[https://github.com/finex/redox-finex/tree/simpleawesome][Redox Awesome]]: branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
+
+#+CAPTION: Awesome WM Redox layout
+[[https://raw.githubusercontent.com/finex/redox-finex/simpleawesome/images/redox-finex.png]]
+
+*** Master branch (unmaintained)
 [[https://github.com/finex/redox-finex/][Redox Master branch]] without special Awesome WM support, not updated with latest improvements.
 
 #+CAPTION: Redox layout
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
-*** AwesomeWM branch
-[[https://github.com/finex/redox-finex/tree/awesomewm][Redox Awesome]]: branch with [[https://awesomewm.org][Awesome WM]] personal shortcuts. Awesome WM is a tiling window manager for X.
-
-#+CAPTION: Awesome WM Redox layout
-[[https://raw.githubusercontent.com/finex/redox-finex/simpleawesome/images/redox-finex.png]]
 
 ** Let's split
 [[https://github.com/finex/lets-split-finex][Let's Split]] layout inspired by personal Redox configuration.
