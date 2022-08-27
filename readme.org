@@ -11,6 +11,7 @@
   - [[#kyria-evo2-branch][Kyria (Evo2 branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
+- [[#planned-layouts][Planned layouts]]
 
 * Layouts
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
@@ -52,3 +53,5 @@ Basic [[https://github.com/finex/gh60-finex][GH60]] layout.
 #+CAPTION: GH60 (Satan) layout
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
+* Planned layouts
+- Ferris Sweep
