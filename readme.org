@@ -35,10 +35,10 @@ This repository is just an index to the custom [[https://github.com/qmk/qmk_firm
 [[https://raw.githubusercontent.com/finex/redox-finex/main/images/redox-finex.png]]
 
 ** Kyria (Evo2 branch)
-Custom [[https://github.com/finex/kyria-finex/tree/evo2][Kyria]] Layout ispired by [[https://github.com/manna-harbour/miryoku][Miryoku]] and my personal Redox layout.
+Custom [[https://github.com/finex/kyria-finex][Kyria]] Layout ispired by [[https://github.com/manna-harbour/miryoku][Miryoku]] and my personal Redox layout.
 
 #+CAPTION: Redox FiNeX layout
-[[https://raw.githubusercontent.com/finex/kyria-finex/evo2/images/finex-kyria-miryoku.png]]
+[[https://raw.githubusercontent.com/finex/kyria-finex/main/images/finex-kyria-miryoku.png]]
 
 ** Let's split
 [[https://github.com/finex/lets-split-finex][Let's Split]] layout inspired by personal Redox configuration.
