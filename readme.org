@@ -7,11 +7,11 @@
 * Table of Content :TOC:
 - [[#layouts][Layouts]]
   - [[#dactyl-manuform][Dactyl Manuform]]
+  - [[#ferris-sweep][Ferris Sweep]]
   - [[#redox][Redox]]
   - [[#kyria-evo2-branch][Kyria (Evo2 branch)]]
   - [[#lets-split][Let's split]]
   - [[#gh60][GH60]]
-- [[#planned-layouts][Planned layouts]]
 
 * Layouts
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
@@ -21,6 +21,12 @@ This repository is just an index to the custom [[https://github.com/qmk/qmk_firm
 
 #+CAPTION: Dactyl Manuform 5x7 layout
 [[https://raw.githubusercontent.com/finex/manuform-finex/main/images/manuform-finex.png]]
+
+** Ferris Sweep
+[[https://github.com/finex/ferris-sweep-finex][Ferris Sweep]] layout, based on my Dactyl Manuform layout.
+
+#+CAPTION: Ferris Sweep layout
+[[https://raw.githubusercontent.com/finex/ferris-sweep-finex/main/ferris-finex.png]]
 
 ** Redox
 *** Evo2 branch
@@ -53,5 +59,3 @@ Basic [[https://github.com/finex/gh60-finex][GH60]] layout.
 #+CAPTION: GH60 (Satan) layout
 [[https://raw.githubusercontent.com/finex/gh60-finex/main/gh60-finex.png]]
 
-* Planned layouts
-- Ferris Sweep
