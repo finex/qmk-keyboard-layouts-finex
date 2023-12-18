@@ -17,7 +17,7 @@
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
 
 ** Dactyl Manuform
-[[https://github.com/finex/manuform-finex][Dactyl Manuform 5x7]] layout, forked from my old Redox layout.
+[[https://github.com/finex/manuform-finex/tree/6x4][Dactyl Manuform 5x7]] layout, forked from my old Redox layout.
 
 #+CAPTION: Dactyl Manuform 5x7 layout
 [[https://raw.githubusercontent.com/finex/manuform-finex/6x4/images/manuform-finex.png]]
