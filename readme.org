@@ -17,10 +17,10 @@
 This repository is just an index to the custom [[https://github.com/qmk/qmk_firmware][Quantum Mechanical Keyboard firmware]] (QMK) keyboard layouts I've created.
 
 ** Dactyl Manuform
-[[https://github.com/carbonfet/dactyl-manuform][Dactyl Manuform 5x7]] layout, based on my Redox "Evo2" layout (see below).
+[[https://github.com/finex/manuform-finex][Dactyl Manuform 5x7]] layout, forked from my old Redox layout.
 
 #+CAPTION: Dactyl Manuform 5x7 layout
-[[https://raw.githubusercontent.com/finex/manuform-finex/main/images/manuform-finex.png]]
+[[https://raw.githubusercontent.com/finex/manuform-finex/6x4/images/manuform-finex.png]]
 
 ** Ferris Sweep
 [[https://github.com/finex/ferris-sweep-finex][Ferris Sweep]] layout, based on my Dactyl Manuform layout.
